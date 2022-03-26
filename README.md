@@ -10,7 +10,7 @@
 ### Parameters
 
 ```py
-def genDataset(varName = 'var', varCount = 1, dataCount = 100, target = 'target') -> pd.DataFrame:
+genDataset(varName = 'var', varCount = 1, dataCount = 100, target = 'target', outputDType = outType.BOOL) -> pd.DataFrame:
 ```
 
 | Variable Name | Description                                           |
