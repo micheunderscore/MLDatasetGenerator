@@ -2,7 +2,7 @@
 
 ### How to Use
 
-1. Extract all files to project folder
+1. Extract generate.py & genDataset.ipynb to project folder
 2. Open & run genDataset.ipynb
 3. Dataset file >>> dataset.csv
 4. ENJOY!!!
